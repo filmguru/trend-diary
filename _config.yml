@@ -1,0 +1,43 @@
+# Site settings
+title: 프로소비봇 트렌드 다이어리
+description: "컨텐츠 마케터의 트렌드 인사이트, 컨텐츠 마케팅, 소비봇의 소비일지 등"
+url: "http://filmguru.kr"
+author:
+  name: "Ha SeoYeon"
+  email: "filmguru@naver.com"
+  url: "http://filmguru.kr"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+
+# 블로그 disqus shortname
+disqus:
+  shortname: http-filmguru-kr
