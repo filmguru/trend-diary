@@ -1,6 +1,7 @@
 # Site settings
 title: 프로소비봇 트렌드 다이어리
-description: "컨텐츠 마케터의 트렌드 인사이트, 컨텐츠 마케팅, 소비봇의 소비일지 등"
+tagline: 트렌드 읽어주는 컨텐츠 마케터
+description: "컨텐츠 마케터의 2019트렌드, 2020트렌드, 트렌드 인사이트, 컨텐츠 마케팅, 소비봇의 소비일지 등"
 url: "http://filmguru.kr"
 author:
   name: "Ha SeoYeon"
