@@ -5,7 +5,7 @@ date: 2019-06-30 11:11:00 +09:00
 author: "filmguru"
 permalink: /2020consumertrend/
 image:
-  feature: shopping.png
+  feature: shopping.PNG
 categories:
   - 마케팅
   - 트렌드
